@@ -29,7 +29,7 @@ TEXTS = {
         },
     "en": {
         "main menu": "Main menu",
-        "choose_language": "",
+        "choose_language": "Hello!",
         "btn_support": "",
         "btn_website": "",
         "btn_language": "",
