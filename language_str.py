@@ -44,7 +44,7 @@ TEXTS = {
         "rate_thanks": "Thanks for the rating!)",
         "rate_invalid": "Error, please enter the rating using only numbers from 1 to 10.",
         "rating_already": "You have already rated this dialogue.",
-        "manager_reply_hint": "Write a reply to @username"
+        "manager_reply_hint": "Write a reply to @username",
         "not_authorized": "You do not have permission to execute this command.",
         "ticket_not_found": "Ticket not found",
         "ticket_closed": "This ticket is closed.",
